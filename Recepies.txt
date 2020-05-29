@@ -3,3 +3,5 @@ Welcome to mansur kitchen
 Kheer
 pasta
 pizza
+
+chicken fry
